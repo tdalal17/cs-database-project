@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows specific files
 Thumbs.db
 ehthumbs.db
@@ -93,3 +94,7 @@ npm-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+=======
+# Google App Engine generated folder
+appengine-generated/
+>>>>>>> 7c55eedcfd77a55b21c1e437fabf920620d5a820
