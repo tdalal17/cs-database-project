@@ -1,0 +1,95 @@
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Microsoft Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Log files
+*.log
+
+# Personal information and reports
+*.docx
+*.doc
+*.pdf
+
+# Executable files
+*.exe
+*.msi
+*.dmg
+
+# PowerPoint presentations
+*.ppt
+*.pptx
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+
+# IDE and editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Personal configuration files
+appsettings.local.json
+*.local.config
+
+# Sensitive data patterns
+*password*
+*secret*
+*key*
+*token*
+*credential*
+
+# Backup files
+*.backup
+*.old
+*.orig
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Node.js (if any web components added later)
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
